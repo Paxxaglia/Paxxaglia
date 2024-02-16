@@ -4,7 +4,7 @@
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-passaglia-482b1b232/)
  
  
-![Iago´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Paxxaglia&show_icons=true&theme=gruvbox&count_private=true)
+![Iago´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Paxxaglia&show_icons=true&theme=dracula&count_private=true)
  
 ## Technologies I use daily
  
